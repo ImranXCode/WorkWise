@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+# env files (never commit secrets)
+.env
+.env.local
+.env.*.local
+
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
